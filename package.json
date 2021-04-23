@@ -1,0 +1,12 @@
+{
+  "name": "draw",
+  "version": "1.0.0",
+  "description": "menggambar menggunakan js",
+  "main": "draw.js",
+  "scripts": {
+    "start": "node draw.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moh Fikri Firmansyah",
+  "license": "ISC"
+}
